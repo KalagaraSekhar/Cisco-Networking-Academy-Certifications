@@ -1,12 +1,14 @@
-# 🎓 Cisco Networking Academy Certifications
-
+--------------------------------------------------------
+Cisco Networking Academy Certifications
+Artificial Intelligence • Data Analytics • Linux
+Operating Systems • SQL • Tableau • NLP
+--------------------------------------------------------
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-blueviolet?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Learning-success?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-Learning-orange?style=for-the-badge)
 
-## 📖 About
 ## 📖 About
 
 Welcome to my **Cisco Networking Academy Certifications** repository.

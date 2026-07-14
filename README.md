@@ -29,8 +29,8 @@ In addition to the official certificates, this repository contains detailed summ
 
 # 🏆 Certifications
 
-| Course | Badge | Certificate | Course Details |
-|---------|:----:|:-----------:|:--------------:|
+| Course | Status |
+|---------|:----:|
 | Operating Systems Basics | ✅ | 
 | Data Analytics Essentials | ✅ | 
 | Introduction to Modern AI | ✅ | 
